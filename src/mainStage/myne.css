@@ -1,0 +1,33 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 15, 2018, 3:48:15 PM
+    Author     : asmaa 3abdeen
+*/
+
+.root {
+  -fx-background-image: url('sala_fitness05.jpg');
+  
+   
+    
+}
+.text{
+    -fx-fill: black
+}
+
+.label {
+    -fx-font-weight: bold;
+    -fx-font-size: 15px;
+    -fx-font-style: italic;
+}
+.button {
+     -fx-font-weight: bold;
+    -fx-font-size: 17px;
+    -fx-font-style: italic;
+    -fx-background-color: burlywood;
+    
+    
+}
